@@ -1,0 +1,43 @@
+
+.navbar{
+    background-color:#0f4e74;
+}
+.container-fluid a{
+    font-size: x-small;
+}
+.bg-info h5 a{
+    margin-top: 10px;
+    color: whitesmoke;
+text-decoration: none;
+}
+
+.left-list{
+    border-bottom: 2px solid white;
+}
+
+table,
+td,
+th {
+  border: 1px ridge rgb(228, 222, 222);
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.footer{
+    border-top: 2px solid whitesmoke;
+
+}
+
+#form{
+   
+}
+
+
+
+
+
